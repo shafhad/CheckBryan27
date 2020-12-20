@@ -9,7 +9,7 @@ var backGround,backImage;
 var constraintLog, chain1;
 
 function preload(){
-    backImage=loadImage("sprites/bg.png");
+   // backImage=loadImage("sprites/bg.png");
 }
 
 function setup(){
